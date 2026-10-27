@@ -1,0 +1,17 @@
+{
+  "name": "El Artisano \u2014 School Publication",
+  "short_name": "El Artisano",
+  "description": "Online school publication of Lawaan National School of Craftsmanship and Home Industries.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fffaf2",
+  "theme_color": "#8d1018",
+  "icons": [
+    {
+      "src": "assets/el-artisano-logo.jpg",
+      "sizes": "any",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
