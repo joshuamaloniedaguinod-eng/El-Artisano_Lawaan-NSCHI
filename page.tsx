@@ -1,0 +1,2 @@
+import {Header,Hero,QuickAccess,Dashboard,ValuesBanner,Footer} from "../components/site";
+export default function Home(){return <><Header/><main><Hero/><div className="container"><QuickAccess/><Dashboard/><ValuesBanner/></div></main><Footer/></>}
